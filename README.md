@@ -33,6 +33,7 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+[Learn More Here](#https://gist.github.com/brittanyb89/edf419b95836584a2d90c4b96d3eee55)
 
 ## License
 
